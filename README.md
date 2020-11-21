@@ -5032,3 +5032,13 @@ Distribution:
 4524	NCIZLFWPNGV6LMBKXMROZZAHZKXJ3WMS7OIV33FU	ND3XFUWS5M3TSZL6YY2COFKEOGTQKDCGZ45TTXZV	5,000,000.000000	2020-08-01 03:22:37
 4525	NCIZLFWPNGV6LMBKXMROZZAHZKXJ3WMS7OIV33FU	NCINUK627HFGKOOIZ6ADIYYH2ICECKKFKRHAPBCS	5,000,000.000000	2020-08-01 03:21:38
 4526	NCIZLFWPNGV6LMBKXMROZZAHZKXJ3WMS7OIV33FU	NBIMY3V5IU2EJ7XCTUKCZQ7UXM2WL47WXGPXECQC	5,000,000.000000	2020-08-01 03:15:39
+
+Due to some exchanges not being able to support the NEM-based token a.k.a "Mosaic" Core-Chip had to migrate.
+Outabox Studios chose the WAVES platform for several reasons, it's fast, efficient, well contructed and transaction fees are quite managable.
+On the 18th of October 2020 (19H12) Hours. Core-Chip made the leap.
+Asset ID: 202035B2pgQ8ixChsYX9tWQi6TcdnGsuZedFGDjNQwWYKBF3
+Name: Core-Chip
+Total amount: 7,777,777,000
+Decimal points: 8
+Type: Not reissuable
+Core-Chip was reborn, better than ever.
